@@ -9,7 +9,7 @@ if temperature >= 25:
 elif 15 <= temperature < 25:
     print("It's mild wear a light jacket.")
 else:
-    print("It's cold  wear warm clothes")
+    print("It's cold wear warm clothes")
 
 
 
